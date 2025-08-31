@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "profound-legacy-470307-g6",
+  "private_key_id": "292ac89d49267fb990fadb669a623b1178b1fc2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0f/rBKNwEegMj\n8wnkgEgrUY48Pq7Jn4D2DH7WvErCdw2T03svCHZ4Ecixd9NshO+bWTlNIEcSW2yV\nXJh0P0ldeqBxn3UOspPZj2RUkjFDEgN1/3MtmN43ct8hDFxWA5oHciRd2NTVm2Bo\nD0OWeAhSbLRktn8ZdjSTXejB4wlJz9vqSYJ3MqGj5gDVUgULnHP4b/jwkzC1VAR5\nrXzcq6YSt0mupDj89H6R1IFRtMyH01v2w7eMw1c7CGOxgkWPSAORLvPMAzkvz/+7\nV2kJqpYCx2pE0F6XDBKOd0MkrjiYKYCK3t9o8AWMgGncj2v1cjtC2O0b8GuWHdYt\nP1D6gWsBAgMBAAECggEAB1kH4E3dYgXFA7VAt3d06KWH5qIvG5hVh76jubJd0TuH\nNxe2dahQqUvhCX9tIQdq2R45V89K8V99JLnpn17VqdtkdWemPGBO5j4A+bPfU0GE\nGE07NzWYQzXXCTl/d0Vrg2bVPehGJsFt2+KWL+WIQjG4aLqooyTVmFOr9lubjNB6\nvRTCwv3uJ/FOim3ZpfNuM2FVTts+pS1O3LV3JjHZaoLWhC7tlM9QggnvH8iLCahj\nQmgr12O3PYm7Nu+KWl5Rm8FQWg73WfCzv93sU8Lw1q+BhDsZY8nzUvNEH7a341BN\nFswloXyN2Mamd7XRraEiJxS9CWrXVmuJJJI80O2wCQKBgQDXgbewTycUvIByfOFa\nuvuBdS2RUT6CeIj7EsJPw1aMKBVUR1pzoC4uHDhYXaw6ESGkAu2rUVWWtpvk6sS7\n1CvYhoRFfRhdquwbiUOxQiOloHKI/UXOZiGkoP/RmZiTDhAJaDPfGAFog8XYjkRz\nZn5jFJsEXV7S7+Sgz+nU6fxoaQKBgQDWal5tY8utWXHQ6qoQWQqUtZv8cdq1LYdM\ntsJP86hbXDuYJ9qwGOIov1uvf9meWt+814wvd2JSG2DM3nDv35S9Xka7XuAqwI7b\nD6XmqRI45zLCkxugPRHPCHtPh1VaHVOcw9D4jgnknzmRETysD+BNXvZTh3EBr0R9\nQwFdlRha2QKBgCFn80B6VJWLTuHwZ8J3v6rmriSbknQJGTrKQqK4pf7d68h/sw6/\nYsk1CKryAlOR+kQBTDRFTF4remj2135COnW7DF/1L0S9zRHLqlmc5gezom2HzT1c\naZSqfF1SUOtiv6ulonzPrNA1tQKHsyasWaUkOY9opd1O4ILpF9cwWjcZAoGBALBh\nCdJkkIzGEllwYHtYM9sG1g1BP09g53bUtF1+q1SUN7W/uya3IXuxhmOFAWhBiuFW\nUsxNIcU3HlcI+NBqFHn+jqLdtfuVMS7E3Y00MXg7v8bNqqES+45ahM10H2Mk0r4X\nWtTMSxkVXg6WpllIKhSbdHhb5zsiiW2dbAcmecVpAoGAD37Rq+giHAyWEItGmGGg\nPcvccqFlNFpbqLcWVmp21KL4AnXUaJPRSjN3MUA0LGPPRYgLK3rzx+3Liz84FISg\nn87AiLpaYdzmURgYLxg6mAbb+NFnWjU8JYzv20z5tgF0xyK7y4V9C1fBcOy/B6ac\n/bRKTwvCapdCCWrKf4o2bz4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tfe-gcp@profound-legacy-470307-g6.iam.gserviceaccount.com",
+  "client_id": "101883130095557756357",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tfe-gcp%40profound-legacy-470307-g6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
