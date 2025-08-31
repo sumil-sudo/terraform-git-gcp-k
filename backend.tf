@@ -2,10 +2,10 @@
 terraform {
   backend "remote" {
     hostname     = "app.terraform.io"
-    organization = "terraform-git-gcp-k8"
+    organization = "terraform-git-gcp-k"
 
     workspaces {
-      name = "terraform-git-gcp-k8"
+      name = "terraform-git-gcp-k"
     }
   }
 }
