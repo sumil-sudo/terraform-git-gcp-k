@@ -1,7 +1,7 @@
 
 terraform {
   backend "remote" {
-    hostname     = "app.terraform.io"
+    hostname     = "app.terrform.io"
     organization = "terraform-git-gcp"
 
     workspaces {
