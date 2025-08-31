@@ -1,5 +1,5 @@
-module "cloud-bucket" {
+/*module "cloud-bucket" {
   source = "./bucket"
-}
+}*/
 
 ### ggggg ####

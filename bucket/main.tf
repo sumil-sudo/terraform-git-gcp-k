@@ -4,4 +4,4 @@ resource "google_storage_bucket" "bucket-31082025" {
   force_destroy = true
 
   public_access_prevention = "enforced"
-}
+} ###
