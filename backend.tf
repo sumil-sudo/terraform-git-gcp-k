@@ -1,14 +1,14 @@
 
 terraform {
   backend "remote" {
-    hostname     = "app.terrform.io"
-    organization = "terraform-git-gcp"
+    hostname     = "app.terraform.io"
+    organization = "terrform-git-gcp"
 
     workspaces {
       name = "terraform-git-gcp-k"
     }
   }
-} #
+} ##
 /*  terrform cli
 terraform { 
   cloud { 
