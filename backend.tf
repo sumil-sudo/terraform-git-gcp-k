@@ -8,7 +8,7 @@ terraform {
       name = "terraform-git-gcp-k"
     }
   }
-}
+} #
 /*  terrform cli
 terraform { 
   cloud { 
