@@ -1,5 +1,5 @@
 module "cloud-bucket" {
-    source = "./bucket"
+  source = "./bucket"
 }
 
 ### ggggg ####
