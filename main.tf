@@ -2,4 +2,7 @@
   source = "./bucket"
 }*/
 
-### ggggg ####
+### cloudsql ###
+module "cloudsql" {
+    source = "./cloudsql"
+}

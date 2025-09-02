@@ -1,7 +1,7 @@
 !/bin/bash
-echo "Enter your name:"
-read name
+echo "Enter your commit meassage:"
+read meassage 
 #echo "Hello, $name!"
 git add .
-git commit -m "$name"
+git commit -m "$meassage"
 git push 
