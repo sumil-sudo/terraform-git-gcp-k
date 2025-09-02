@@ -1,4 +1,5 @@
-resource "google_project_service" "cloudsql" {
-  service = "sqladmin.googleapis.com"
-  disable_on_destroy = false
-}
+  resource "google_project_service" "gcp_services" {
+      for_each = toset(var.gcp_api_list)
+      service  = each.value
+      disable_dependent_services = true
+    }
