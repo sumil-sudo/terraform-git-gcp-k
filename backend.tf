@@ -9,15 +9,3 @@ terraform {
     }
   }
 } ##
-/*  terrform cli
-terraform { 
-  cloud { 
-    
-    organization = "gcp-tfe" 
-
-    workspaces { 
-      name = "gcp" 
-    } 
-  } 
-}
-*/
