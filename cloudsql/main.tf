@@ -10,4 +10,4 @@ resource "google_sql_database_instance" "main" {
 
   }
   deletion_protection = true
-}##
+}###
