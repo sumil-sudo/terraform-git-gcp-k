@@ -1,6 +1,8 @@
- module "cloud-bucket" {
+
+/* module "cloud-bucket" {
   source = "./bucket"
 } 
+*/
 
 ##enable api ##
 module "apienable" {
